@@ -11,6 +11,21 @@ $(function () {
         console.log(this)
     });
   
+  $(".hour").each(function() {
+      var hour = $(this).text();
+      var description = localStorage.getItem(hour);
+
+      if (description !== null) {
+          $(this).siblings(".description").val(description);
+      }
+    });
+
+ 
+
+
+
+
+
   // TODO: Add a listener for click events on the save button. This code should
   // use the id in the containing time-block as a key to save the user input in
   // local storage. HINT: What does `this` reference in the click listener
