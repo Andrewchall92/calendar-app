@@ -19,8 +19,14 @@ Technology Used         | Resource URL           |
 | CSS        | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git        | [https://git-scm.com/](https://git-scm.com/)     |    
 | JavaScript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| jQuery | [https://api.jquery.com](https://api.jquery.com) |
+| Day.js | [https://day.js.org/](https://day.js.org) |
+| Font Awesome | [https://fontawesome.com](https://fontawesome.com) | 
+| Google Fonts | [https://fonts.google.com/](https://fonts.google.com/) |
+| Bootstrap | [https://getbootstrap.com/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.3/getting-started/introduction) |
+
  
- [Visit the Deployed Site]()
+ [Visit the Deployed Site](https://andrewchall92.github.io/calendar-app/)
 
  ## License
  This project is licensed under the [MIT License](LICENSE).
