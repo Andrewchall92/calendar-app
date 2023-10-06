@@ -1,4 +1,4 @@
-# Code Quiz
+# Daily Scheduler
 
 ## Discription
 This is an application designed to assist in organizing events or tasks on a day-to-day basis. It will display the current day and dynamically update based on the current hour of the day.
